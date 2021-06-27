@@ -1,9 +1,8 @@
 # install-run-arm-pkg-ROS
-In order to simulate the robot arm motions and positions as it is in the reality. And to discover any physical or logical problems that may surface during the simulation. 
+To simulate the robot arm motions and positions as it is in the reality. And to discover any physical or logical problems that may surface during the simulation.
 
-In this project we will use ROS pakages with ROS melodic and Ubuntu 18.04.5
-The robot arm pakage will use joint_state_publisher to test the arm motion with both Rvis simulation and gazebo simulation.
-Inaddition to 
+In this project we will use ROS packages with ROS melodic and Ubuntu 18.04.5. The robot arm package will use joint_state_publisher to test the arm motion with both Rvis simulation and gazebo simulation. In addition to run the Moveit package. Which is Used for kinematics, motion planning, trajectory processing and controlling the robot. You can run Moveit package with both Rvis simulation and gazebo simulation. 
+
 
 ## Dependencies 
 
